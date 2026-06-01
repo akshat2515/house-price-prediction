@@ -1,0 +1,29 @@
+What am I predicting?
+MedHouseVal
+Which feature seems most important?
+
+Maybe:
+
+MedInc
+Any missing values?
+No
+Any categorical columns?
+No
+Which model should I start with?
+Linear Regression
+The workflow is :
+Get Data
+↓
+Understand Data
+↓
+Clean Data
+↓
+EDA
+↓
+Split Data
+↓
+Train Model
+↓
+Evaluate
+↓
+Improve Model(by changing the algo)
